@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+            "url('https://c4.wallpaperflare.com/wallpaper/73/288/838/yellow-and-pink-petaled-flower-dahlia-dahlia-wallpaper-preview.jpg')",
         },
       },
     },
